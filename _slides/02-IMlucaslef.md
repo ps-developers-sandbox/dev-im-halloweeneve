@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+I wish for a warmer day in Chicago!
 
 ![dinotocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
