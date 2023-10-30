@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Valar Morghulis!"
+title: "Valar Morghulis! All men must die - GoT"
 ---
 
 Caption here
